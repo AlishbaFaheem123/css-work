@@ -1,0 +1,26 @@
+
+/* Type Selector */
+.house h2{
+    color: blue;
+}
+    
+/* Class Selector */
+.Bedroom {
+    background-color: lightblue;
+}
+/* ID Selector */
+#Kitchen {
+    color: orange;
+}
+/* Child Selector */
+.house>div{
+    background-color: lightgrey;
+}
+/* Adjacent Sibling  Selector */
+.Living-room + div {
+    background-color: green;
+}
+/* General Sibling Selector */
+#Kitchen~div{
+    background-color: lightpink;
+}
