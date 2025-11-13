@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@font-face{
+    font-family: "montserrat";
+    src: url(fonts/Montserrat-VariableFont_wght.ttf);
+}
+@font-face{
+    font-family: "Roboto";
+    src: url(fonts/Roboto-Italic-VariableFont_wdth,wght.ttf);
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+}
+.card-01{
+    background-color: #bce2e7;
+    font-family: "montserrat";
+    width: 250px;
+    height: 350px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.card-02{
+    background-color: #facdb1;
+    font-family: "Roboto";
+    width: 250px;
+    height: 350px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}     
+.card-03{
+    background-color: #d8e8c9;
+    font-family: "Roboto", sans-serif;
+     width: 250px;
+    height: 350px;
+    text-align: center;
+    border-radius: 30px;
+     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.cards{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+
+.clock{
+    padding-top: 20px;
+}
+.mountain{
+    padding-top: 20px;
+} 
+.heel{
+    padding-top: 5px;
+}
+.shoes{
+    padding-top: 5px;
+}
+.winter{
+    padding-top: 10px;
+}
+.card-04{
+     background-color: #d4cdea;
+    font-family: "Playfair Display", serif;
+    width: 250px;
+    height: 350px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.card-05{
+    background-color: #dbdadb;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 250px;
+    height: 350px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.card-06{
+    background-color: #faeab1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 250px;
+    height: 350px;
+    text-align: center;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
